@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//plugins/auth.py=utf-8
+encoding//plugins/excel.py=utf-8
+encoding//plugins/layout.py=utf-8
+encoding//plugins/mobile.py=utf-8
+encoding//plugins/multiselect.py=utf-8
+encoding//plugins/passwords.py=utf-8
+encoding//plugins/portal.py=utf-8
+encoding//plugins/relate.py=UTF-8
+encoding//plugins/sortable.py=utf-8
+encoding//plugins/ueditor.py=utf-8
+encoding//templates/xadmin/views/model_list.top_toolbar.import.html=UTF-8
+encoding/<project>=UTF-8
+encoding/models.py=utf-8
