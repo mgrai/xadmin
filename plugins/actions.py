@@ -15,6 +15,7 @@ from xadmin.views import BaseAdminPlugin, ListAdminView
 from xadmin.views.base import filter_hook, ModelAdminView
 
 
+
 ACTION_CHECKBOX_NAME = '_selected_action'
 checkbox = forms.CheckboxInput({'class': 'action-select'}, lambda value: False)
 
